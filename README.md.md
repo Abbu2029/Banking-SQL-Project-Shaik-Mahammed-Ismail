@@ -1,8 +1,6 @@
 # Banking Management System (SQL)
 
 **Author:** Shaik Mahammed Ismail  
-Email: abbu2029@gmail.com  
-GitHub: https://github.com/yourusername/Banking-SQL-Project-Shaik-Ismail
 
 ## Overview
 A complete banking database with customers, accounts, transactions, and loans. Built with MySQL.
